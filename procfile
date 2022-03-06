@@ -1,1 +1,0 @@
-web: gunicorn bike_rent.wsgi --log-file -
